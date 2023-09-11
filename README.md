@@ -1,2 +1,2 @@
-# TodoList2023
-TodoList2023 : A list of things to do.
+# Todo List Project
+Todo List : A list of things to do.
